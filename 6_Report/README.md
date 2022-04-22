@@ -19,7 +19,7 @@ Traffic congestion control is a project by which traffic flow can be easily cont
 ![Traffic Control System drawio](https://user-images.githubusercontent.com/67890511/164622733-52f5de2d-e22f-4ba7-8c5e-49f769aaad8e.png)
 
 ### Schematic Diagram:
-----------------------![Traffic Control System](https://user-images.githubusercontent.com/67890511/164622815-17d02b71-7dfb-4d28-ad63-64d70512f0ce.png)
+![Traffic Control System](https://user-images.githubusercontent.com/67890511/164622815-17d02b71-7dfb-4d28-ad63-64d70512f0ce.png)
 
 ### 4 W and 1 H (Who, What, When, Where and How):
 -------------------------------------------------
