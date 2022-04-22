@@ -1,1 +1,1 @@
-Images and Videos
+Images and Videos are included
