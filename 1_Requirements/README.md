@@ -1,5 +1,5 @@
 ## High Level Requirements
-HL1. LCD Display interfacing with Atmega328
+HL1. LCD Display interfacing with Atmega328 <br />
 HL2. LED interfacing with Atmega328
 
 ## Low Level Requirements
